@@ -19,5 +19,6 @@
 #src-git small8 https://github.com/kenzok8/openwrt-packages
 
 cat >> feeds.conf.default <<EOF
-src-git kenzok8 https://github.com/kenzok8/small-package
+src-git kenzo https://github.com/kenzok8/openwrt-packages
+src-git small https://github.com/kenzok8/small
 EOF
